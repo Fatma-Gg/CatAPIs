@@ -2,6 +2,8 @@
 
 This project automates the testing of free API endpoints.The framework is built using Rest Assured with   Java .
 
+API Documentation: https://catfact.ninja/
+
 🧰 Tech Stack
 
 
